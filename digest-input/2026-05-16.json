@@ -2,7 +2,7 @@
   "date": "2026-05-16",
   "meta": {
     "date": "2026-05-16",
-    "generated_at": "2026-05-17T05:23:41.854258+00:00",
+    "generated_at": "2026-05-17T05:24:45.458592+00:00",
     "sources": {
       "tg_channels": {
         "status": "ok",
@@ -59,12 +59,12 @@
       "cross_source": {
         "status": "ok",
         "path": "/data/digest-input/2026-05-16/cross_source.json",
-        "size_bytes": 16198,
+        "size_bytes": 259,
         "source_file": "/data/cross_source/2026-05-16/enriched.json"
       }
     },
-    "total_size_bytes": 483483,
-    "total_size_kb": 472.2,
+    "total_size_bytes": 467544,
+    "total_size_kb": 456.6,
     "privacy": {
       "private_chats_excluded": 0,
       "messages_sanitized": 2,
@@ -85,268 +85,16 @@
   },
   "cross_source": {
     "date": "2026-05-16",
-    "generated_at": "2026-05-17T00:46:55.303215+00:00",
+    "generated_at": "2026-05-17T05:24:45.416008+00:00",
     "source_counts": {
       "tg_clusters": 0,
-      "x_items": 0,
-      "blog_entries": 13,
-      "reddit_posts": 1,
+      "x_items": 121,
+      "blog_entries": 1,
+      "reddit_posts": 0,
       "youtube_videos": 0
     },
-    "clusters_count": 6,
-    "clusters": [
-      {
-        "entity_ids": [
-          "ent_google"
-        ],
-        "canonical_names": [
-          "Google"
-        ],
-        "sources_breakdown": {
-          "tg": 0,
-          "x": 0,
-          "blog": 6,
-          "reddit": 1,
-          "youtube": 0
-        },
-        "total_sources": 7,
-        "cross_source_count": 2,
-        "items": [
-          {
-            "source_type": "blog",
-            "source_id": "https://ppc.land/google-vehicle-ads-in-the-us-now-cover-atvs-utvs-and-campers/",
-            "content": "Google vehicle ads in the US now cover ATVs, UTVs and campers Google vehicle ads in the US expand to ATVs, UTVs, RVs and non-motorized trailers in May 2026, adding off-road and recreational inventory to the ad format.",
-            "entities": [
-              "ent_google"
-            ],
-            "extra": {}
-          },
-          {
-            "source_type": "blog",
-            "source_id": "https://ppc.land/google-spam-policies-now-officially-cover-ai-overviews-and-ai-mode-in-search/",
-            "content": "Google spam policies now officially cover AI Overviews and AI Mode in Search Google today clarified that spam policies apply to AI Overviews and AI Mode, ending ambiguity over manipulation penalties in AI-generated search results now.",
-            "entities": [
-              "ent_google"
-            ],
-            "extra": {}
-          },
-          {
-            "source_type": "blog",
-            "source_id": "https://ppc.land/google-ads-api-v24-1-brings-direct-a-b-experiment-stats-and-new-test-types/",
-            "content": "Google Ads API v24.1 brings direct A/B experiment stats and new test types Google Ads API v24.1 adds direct experiment statistics and five new test types, covering AI Max, broad match, video, and Performance Max asset optimization.",
-            "entities": [
-              "ent_google",
-              "ent_google_ads",
-              "ent_performance_max"
-            ],
-            "extra": {}
-          },
-          {
-            "source_type": "blog",
-            "source_id": "https://ppc.land/the-google-channel-mix-secret-that-doubled-roas-for-25-ecommerce-brands/",
-            "content": "The Google channel mix secret that doubled ROAS for 25 ecommerce brands Fospha's Q4 2025 study of 25 retail brands shows allocating 10-20% of Google budget to Demand Gen doubled ROAS versus brands spending under 5% on the channel.",
-            "entities": [
-              "ent_demand_gen",
-              "ent_google"
-            ],
-            "extra": {}
-          },
-          {
-            "source_type": "blog",
-            "source_id": "https://ppc.land/googles-new-guide-for-ai-search-what-seo-really-needs-now/",
-            "content": "Google&#x27;s new guide for AI search: what SEO really needs now Google published a new guide on May 15 to help website owners optimize for generative AI in Search, addressing AEO and GEO misconceptions directly for SEO.",
-            "entities": [
-              "ent_google"
-            ],
-            "extra": {}
-          },
-          {
-            "source_type": "blog",
-            "source_id": "https://ppc.land/doj-demands-apple-google-and-amazon-unmask-100-000-car-app-users/",
-            "content": "DOJ demands Apple, Google and Amazon unmask 100,000+ car app users The DOJ subpoenaed Apple, Google, Amazon and Walmart to identify over 100,000 users of EZ Lynk's car tuning app, raising Fourth Amendment privacy concerns.",
-            "entities": [
-              "ent_google"
-            ],
-            "extra": {}
-          },
-          {
-            "source_type": "reddit",
-            "source_id": "https://www.reddit.com/r/DigitalMarketing/comments/1teu0tf/inherited_a_business_with_zero_marketing_built/",
-            "content": "inherited a business with zero marketing. built our first email list from scratch. the \"boring\" channel outperforms everything else. took over my family's business 8 years ago. when i arrived, the marketing consisted of: a yellow pages listing and word of mouth. literally nothing else.\n\ntried everything over 8 years. facebook ads (decent for 2 years, then the cost tripled). instagram (good for awareness, weak for conversion). google ads (worked but expensive for our service category). SEO (slow but eventually produced results).\n\nthe channel that outperforms all of them: an email list of 1,400 people i built manually over 4 years. every past customer. every prospect who asked for a quote. every person who attended an event we hosted.\n\n1,400 people. not 14,000. not 140,000. a small, specific list of people who know our business personally.\n\nmonthly email (not weekly, they'd unsubscribe). open rate: 42%. click-through rate: 8.2%. revenue attributable to the monthly email: roughly 30% of new business each month.\n\nthe email list cost nothing to build beyond the time to add each person. the monthly email costs nothing to send beyond 30 minutes of writing time. the ROI is essentially infinite.\n\nevery shiny marketing channel i've tried over 8 years has either gotten more expensive, less effective, or both. the email list has gotten more effective every year because it gets larger and the recipients are warmer.\n\nthe marketing industry doesn't talk about email lists of 1,400 because there's no agency fee attached. nobody can sell you a service for building a list one name at a time. but the list built one name at a time is the one that converts.\n\nif you run a local or relationship-based business and you don't have an email list: start one today. add every customer manually. send monthly. it'll outperform whatever you're currently paying for within a year.",
-            "entities": [
-              "ent_facebook_ads",
-              "ent_google",
-              "ent_google_ads",
-              "ent_meta"
-            ],
-            "extra": {}
-          }
-        ]
-      },
-      {
-        "entity_ids": [
-          "ent_google_ads"
-        ],
-        "canonical_names": [
-          "Google Ads"
-        ],
-        "sources_breakdown": {
-          "tg": 0,
-          "x": 0,
-          "blog": 1,
-          "reddit": 1,
-          "youtube": 0
-        },
-        "total_sources": 2,
-        "cross_source_count": 2,
-        "items": [
-          {
-            "source_type": "blog",
-            "source_id": "https://ppc.land/google-ads-api-v24-1-brings-direct-a-b-experiment-stats-and-new-test-types/",
-            "content": "Google Ads API v24.1 brings direct A/B experiment stats and new test types Google Ads API v24.1 adds direct experiment statistics and five new test types, covering AI Max, broad match, video, and Performance Max asset optimization.",
-            "entities": [
-              "ent_google",
-              "ent_google_ads",
-              "ent_performance_max"
-            ],
-            "extra": {}
-          },
-          {
-            "source_type": "reddit",
-            "source_id": "https://www.reddit.com/r/DigitalMarketing/comments/1teu0tf/inherited_a_business_with_zero_marketing_built/",
-            "content": "inherited a business with zero marketing. built our first email list from scratch. the \"boring\" channel outperforms everything else. took over my family's business 8 years ago. when i arrived, the marketing consisted of: a yellow pages listing and word of mouth. literally nothing else.\n\ntried everything over 8 years. facebook ads (decent for 2 years, then the cost tripled). instagram (good for awareness, weak for conversion). google ads (worked but expensive for our service category). SEO (slow but eventually produced results).\n\nthe channel that outperforms all of them: an email list of 1,400 people i built manually over 4 years. every past customer. every prospect who asked for a quote. every person who attended an event we hosted.\n\n1,400 people. not 14,000. not 140,000. a small, specific list of people who know our business personally.\n\nmonthly email (not weekly, they'd unsubscribe). open rate: 42%. click-through rate: 8.2%. revenue attributable to the monthly email: roughly 30% of new business each month.\n\nthe email list cost nothing to build beyond the time to add each person. the monthly email costs nothing to send beyond 30 minutes of writing time. the ROI is essentially infinite.\n\nevery shiny marketing channel i've tried over 8 years has either gotten more expensive, less effective, or both. the email list has gotten more effective every year because it gets larger and the recipients are warmer.\n\nthe marketing industry doesn't talk about email lists of 1,400 because there's no agency fee attached. nobody can sell you a service for building a list one name at a time. but the list built one name at a time is the one that converts.\n\nif you run a local or relationship-based business and you don't have an email list: start one today. add every customer manually. send monthly. it'll outperform whatever you're currently paying for within a year.",
-            "entities": [
-              "ent_facebook_ads",
-              "ent_google",
-              "ent_google_ads",
-              "ent_meta"
-            ],
-            "extra": {}
-          }
-        ]
-      },
-      {
-        "entity_ids": [
-          "ent_performance_max"
-        ],
-        "canonical_names": [
-          "Performance Max"
-        ],
-        "sources_breakdown": {
-          "tg": 0,
-          "x": 0,
-          "blog": 1,
-          "reddit": 0,
-          "youtube": 0
-        },
-        "total_sources": 1,
-        "cross_source_count": 1,
-        "items": [
-          {
-            "source_type": "blog",
-            "source_id": "https://ppc.land/google-ads-api-v24-1-brings-direct-a-b-experiment-stats-and-new-test-types/",
-            "content": "Google Ads API v24.1 brings direct A/B experiment stats and new test types Google Ads API v24.1 adds direct experiment statistics and five new test types, covering AI Max, broad match, video, and Performance Max asset optimization.",
-            "entities": [
-              "ent_google",
-              "ent_google_ads",
-              "ent_performance_max"
-            ],
-            "extra": {}
-          }
-        ]
-      },
-      {
-        "entity_ids": [
-          "ent_demand_gen"
-        ],
-        "canonical_names": [
-          "Demand Gen"
-        ],
-        "sources_breakdown": {
-          "tg": 0,
-          "x": 0,
-          "blog": 1,
-          "reddit": 0,
-          "youtube": 0
-        },
-        "total_sources": 1,
-        "cross_source_count": 1,
-        "items": [
-          {
-            "source_type": "blog",
-            "source_id": "https://ppc.land/the-google-channel-mix-secret-that-doubled-roas-for-25-ecommerce-brands/",
-            "content": "The Google channel mix secret that doubled ROAS for 25 ecommerce brands Fospha's Q4 2025 study of 25 retail brands shows allocating 10-20% of Google budget to Demand Gen doubled ROAS versus brands spending under 5% on the channel.",
-            "entities": [
-              "ent_demand_gen",
-              "ent_google"
-            ],
-            "extra": {}
-          }
-        ]
-      },
-      {
-        "entity_ids": [
-          "ent_meta"
-        ],
-        "canonical_names": [
-          "Meta"
-        ],
-        "sources_breakdown": {
-          "tg": 0,
-          "x": 0,
-          "blog": 0,
-          "reddit": 1,
-          "youtube": 0
-        },
-        "total_sources": 1,
-        "cross_source_count": 1,
-        "items": [
-          {
-            "source_type": "reddit",
-            "source_id": "https://www.reddit.com/r/DigitalMarketing/comments/1teu0tf/inherited_a_business_with_zero_marketing_built/",
-            "content": "inherited a business with zero marketing. built our first email list from scratch. the \"boring\" channel outperforms everything else. took over my family's business 8 years ago. when i arrived, the marketing consisted of: a yellow pages listing and word of mouth. literally nothing else.\n\ntried everything over 8 years. facebook ads (decent for 2 years, then the cost tripled). instagram (good for awareness, weak for conversion). google ads (worked but expensive for our service category). SEO (slow but eventually produced results).\n\nthe channel that outperforms all of them: an email list of 1,400 people i built manually over 4 years. every past customer. every prospect who asked for a quote. every person who attended an event we hosted.\n\n1,400 people. not 14,000. not 140,000. a small, specific list of people who know our business personally.\n\nmonthly email (not weekly, they'd unsubscribe). open rate: 42%. click-through rate: 8.2%. revenue attributable to the monthly email: roughly 30% of new business each month.\n\nthe email list cost nothing to build beyond the time to add each person. the monthly email costs nothing to send beyond 30 minutes of writing time. the ROI is essentially infinite.\n\nevery shiny marketing channel i've tried over 8 years has either gotten more expensive, less effective, or both. the email list has gotten more effective every year because it gets larger and the recipients are warmer.\n\nthe marketing industry doesn't talk about email lists of 1,400 because there's no agency fee attached. nobody can sell you a service for building a list one name at a time. but the list built one name at a time is the one that converts.\n\nif you run a local or relationship-based business and you don't have an email list: start one today. add every customer manually. send monthly. it'll outperform whatever you're currently paying for within a year.",
-            "entities": [
-              "ent_facebook_ads",
-              "ent_google",
-              "ent_google_ads",
-              "ent_meta"
-            ],
-            "extra": {}
-          }
-        ]
-      },
-      {
-        "entity_ids": [
-          "ent_facebook_ads"
-        ],
-        "canonical_names": [
-          "Facebook Ads"
-        ],
-        "sources_breakdown": {
-          "tg": 0,
-          "x": 0,
-          "blog": 0,
-          "reddit": 1,
-          "youtube": 0
-        },
-        "total_sources": 1,
-        "cross_source_count": 1,
-        "items": [
-          {
-            "source_type": "reddit",
-            "source_id": "https://www.reddit.com/r/DigitalMarketing/comments/1teu0tf/inherited_a_business_with_zero_marketing_built/",
-            "content": "inherited a business with zero marketing. built our first email list from scratch. the \"boring\" channel outperforms everything else. took over my family's business 8 years ago. when i arrived, the marketing consisted of: a yellow pages listing and word of mouth. literally nothing else.\n\ntried everything over 8 years. facebook ads (decent for 2 years, then the cost tripled). instagram (good for awareness, weak for conversion). google ads (worked but expensive for our service category). SEO (slow but eventually produced results).\n\nthe channel that outperforms all of them: an email list of 1,400 people i built manually over 4 years. every past customer. every prospect who asked for a quote. every person who attended an event we hosted.\n\n1,400 people. not 14,000. not 140,000. a small, specific list of people who know our business personally.\n\nmonthly email (not weekly, they'd unsubscribe). open rate: 42%. click-through rate: 8.2%. revenue attributable to the monthly email: roughly 30% of new business each month.\n\nthe email list cost nothing to build beyond the time to add each person. the monthly email costs nothing to send beyond 30 minutes of writing time. the ROI is essentially infinite.\n\nevery shiny marketing channel i've tried over 8 years has either gotten more expensive, less effective, or both. the email list has gotten more effective every year because it gets larger and the recipients are warmer.\n\nthe marketing industry doesn't talk about email lists of 1,400 because there's no agency fee attached. nobody can sell you a service for building a list one name at a time. but the list built one name at a time is the one that converts.\n\nif you run a local or relationship-based business and you don't have an email list: start one today. add every customer manually. send monthly. it'll outperform whatever you're currently paying for within a year.",
-            "entities": [
-              "ent_facebook_ads",
-              "ent_google",
-              "ent_google_ads",
-              "ent_meta"
-            ],
-            "extra": {}
-          }
-        ]
-      }
-    ]
+    "clusters_count": 0,
+    "clusters": []
   },
   "stats": {
     "file_count": 6,
