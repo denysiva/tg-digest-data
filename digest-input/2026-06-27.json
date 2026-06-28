@@ -2,7 +2,7 @@
   "date": "2026-06-27",
   "meta": {
     "date": "2026-06-27",
-    "generated_at": "2026-06-28T13:45:33.653948+00:00",
+    "generated_at": "2026-06-28T13:51:21.816610+00:00",
     "sources": {
       "tg_channels": {
         "status": "ok",
@@ -65,7 +65,11 @@
         "size_bytes": 764,
         "truncated": false,
         "channels_count": 4,
-        "videos_count": 5
+        "videos_count": 5,
+        "transcripts_count": 0,
+        "transcript_sources": {},
+        "deferred_count": 0,
+        "manifest_path": "/data/digest-input/2026-06-27/youtube_transcript_manifest.json"
       },
       "email_newsletters": {
         "status": "ok",
@@ -108,7 +112,7 @@
   },
   "source_health": {
     "date": "2026-06-27",
-    "generated_at": "2026-06-28T13:45:33.858320+00:00",
+    "generated_at": "2026-06-28T13:51:22.018835+00:00",
     "pipeline_status": "partial",
     "sources": {
       "tg_channels": {
@@ -218,6 +222,8 @@
         "transcripts_count": 0,
         "transcript_chars_total": 0,
         "metadata_only_count": 5,
+        "deferred_count": 5,
+        "transcript_sources": {},
         "failed_video_ids": [
           "GDw--zLtCns",
           "R6lWNZ8nQHc",
@@ -334,7 +340,7 @@
   },
   "json_artifacts": {
     "missed_topic_audit.json": {
-      "generated_at": "2026-06-28T13:45:33.969173+00:00",
+      "generated_at": "2026-06-28T13:51:22.128046+00:00",
       "status": "needs_review",
       "high_score_uncovered": [
         {
@@ -649,7 +655,7 @@
     },
     "source_health.json": {
       "date": "2026-06-27",
-      "generated_at": "2026-06-28T13:45:33.858320+00:00",
+      "generated_at": "2026-06-28T13:51:22.018835+00:00",
       "pipeline_status": "partial",
       "sources": {
         "tg_channels": {
@@ -759,6 +765,8 @@
           "transcripts_count": 0,
           "transcript_chars_total": 0,
           "metadata_only_count": 5,
+          "deferred_count": 5,
+          "transcript_sources": {},
           "failed_video_ids": [
             "GDw--zLtCns",
             "R6lWNZ8nQHc",
@@ -866,7 +874,7 @@
     },
     "canonical_topics.json": {
       "date": "2026-06-27",
-      "generated_at": "2026-06-28T13:45:33.970253+00:00",
+      "generated_at": "2026-06-28T13:51:22.129104+00:00",
       "topics_count": 247,
       "topics": [
         {
@@ -4650,7 +4658,7 @@
     },
     "topic_inventory.json": {
       "date": "2026-06-27",
-      "generated_at": "2026-06-28T13:45:33.969177+00:00",
+      "generated_at": "2026-06-28T13:51:22.128050+00:00",
       "topics_count": 319,
       "topics": [
         {
@@ -9761,7 +9769,7 @@
     },
     "meta.json": {
       "date": "2026-06-27",
-      "generated_at": "2026-06-28T13:45:33.653948+00:00",
+      "generated_at": "2026-06-28T13:51:21.816610+00:00",
       "sources": {
         "tg_channels": {
           "status": "ok",
@@ -9824,7 +9832,11 @@
           "size_bytes": 764,
           "truncated": false,
           "channels_count": 4,
-          "videos_count": 5
+          "videos_count": 5,
+          "transcripts_count": 0,
+          "transcript_sources": {},
+          "deferred_count": 0,
+          "manifest_path": "/data/digest-input/2026-06-27/youtube_transcript_manifest.json"
         },
         "email_newsletters": {
           "status": "ok",
@@ -11988,8 +12000,18 @@
         }
       ]
     },
+    "youtube_transcript_manifest.json": {
+      "date": "2026-06-27",
+      "generated_at": "2026-06-28T13:51:22.010143+00:00",
+      "status": "ok",
+      "deferred_count": 0,
+      "transcripts_count": 0,
+      "videos_count": 5,
+      "instructions": "Cloud/Hermes enrichment stage should fetch transcripts for these videos and write cleaned/youtube transcript cache before final digest analysis.",
+      "videos": []
+    },
     "coverage_map.json": {
-      "generated_at": "2026-06-28T13:45:33.969134+00:00",
+      "generated_at": "2026-06-28T13:51:22.128006+00:00",
       "counts": {
         "main": 12,
         "short": 23,
@@ -14220,9 +14242,9 @@
   },
   "stats": {
     "file_count": 7,
-    "json_artifact_count": 7,
+    "json_artifact_count": 8,
     "markdown_total_kb": 860.9,
-    "json_total_kb": 805.2,
-    "total_kb": 1666.1
+    "json_total_kb": 805.7,
+    "total_kb": 1666.6
   }
 }
